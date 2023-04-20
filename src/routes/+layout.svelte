@@ -15,7 +15,7 @@
 		<!-- App Bar -->
 		<AppBar>
 			<svelte:fragment slot="lead">
-				<strong class="text-xl uppercase sm:ml-24">Lurnit</strong>
+				<strong class="text-xl uppercase sm:ml-24"><a href="/">Lurnit</a></strong>
 			</svelte:fragment>
 			<svelte:fragment slot="trail">
 				<LightSwitch class="sm:mr-24"/>

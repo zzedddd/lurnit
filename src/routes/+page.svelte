@@ -6,9 +6,10 @@
 	<div class="mt-12 flex flex-col flex-wrap md:flex-row items-center justify-center">
 		<a href="/" class="btn variant-filled-primary m-4" data-sveltekit-preload-data="hover">Assignment 1</a>
 		<a href="/" class="btn variant-filled-primary m-4" data-sveltekit-preload-data="hover">Assignment 2</a>
-		<a href="/" class="btn variant-filled-primary m-4" data-sveltekit-preload-data="hover">Assignment 3</a>
-		<a href="/" class="btn variant-filled-primary m-4" data-sveltekit-preload-data="hover">Assignment 4</a>
-		<a href="/" class="btn variant-filled-primary m-4" data-sveltekit-preload-data="hover">Assignment 5</a>
+		<a href="/assignment/three" class="btn variant-filled-primary m-4" data-sveltekit-preload-data="hover">Assignment 3</a>
+		<a href="/assignment/four" class="btn variant-filled-primary m-4" data-sveltekit-preload-data="hover">Assignment 4</a>
+		<a href="/assignment/five" class="btn variant-filled-primary m-4" data-sveltekit-preload-data="hover">Assignment 5</a>
+		<a href="/assignment/six" class="btn variant-filled-primary m-4" data-sveltekit-preload-data="hover">Assignment 6</a>
 	</div>
 </div>
 
